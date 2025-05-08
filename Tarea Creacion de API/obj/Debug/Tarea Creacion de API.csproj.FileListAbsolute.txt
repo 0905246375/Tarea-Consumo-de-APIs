@@ -1,0 +1,13 @@
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\obj\Debug\Tarea Creacion de API.csproj.AssemblyReference.cache
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\obj\Debug\Tarea_Creacion_de_API.Form1.resources
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\obj\Debug\Tarea_Creacion_de_API.Properties.Resources.resources
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\obj\Debug\Tarea Creacion de API.csproj.GenerateResource.cache
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\obj\Debug\Tarea Creacion de API.csproj.CoreCompileInputs.cache
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\bin\Debug\Tarea Creacion de API.exe.config
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\bin\Debug\Tarea Creacion de API.exe
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\bin\Debug\Tarea Creacion de API.pdb
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\obj\Debug\Tarea Cr.DF821CE2.Up2Date
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\obj\Debug\Tarea Creacion de API.exe
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Creacion de API\obj\Debug\Tarea Creacion de API.pdb
